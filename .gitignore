@@ -1,0 +1,9 @@
+.vs
+x64
+*.vcxproj.user
+Debug
+*.bmp
+*.jpg
+*.png
+
+algo4_project_CC/algo4_project/algs4-master
